@@ -1,0 +1,12 @@
+com.google.android.googlequicksearchbox
+com.google.android.apps.googleassistant
+com.google.android.feedback
+com.google.android.apps.photos
+com.google.android.calendar
+com.google.android.documentsui
+com.google.android.keep
+com.android.chrome
+com.google.android.apps.nbu.files
+com.google.android.apps.walletnfcrel
+com.google.ar.lens
+com.google.android.apps.maps

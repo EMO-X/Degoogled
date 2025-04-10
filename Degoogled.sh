@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mapfile -t lines < google_packages.txt
+mapfile -t lines < save_to_remove_packages.txt
 
 for line in "${lines[@]}"; do
 	if adb shell pm list packages | grep "package:$line"; then
